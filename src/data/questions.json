@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "category": "HTML",
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "options": ["<a>", "<link>", "<href>", "<url>"],
+    "answer": "<a>"
+  },
+  {
+    "id": 2,
+    "category": "HTML",
+    "question": "Which tag is used to insert an image?",
+    "options": ["<picture>", "<img>", "<image>", "<src>"],
+    "answer": "<img>"
+  },
+  {
+    "id": 3,
+    "category": "CSS",
+    "question": "Which property changes text color?",
+    "options": ["font-color", "color", "text-color", "background"],
+    "answer": "color"
+  },
+  {
+    "id": 4,
+    "category": "CSS",
+    "question": "Which property is used for Flexbox?",
+    "options": ["display:flex", "position:flex", "float:flex", "grid:flex"],
+    "answer": "display:flex"
+  },
+  {
+    "id": 5,
+    "category": "JavaScript",
+    "question": "Which keyword declares a constant?",
+    "options": ["let", "var", "const", "static"],
+    "answer": "const"
+  },
+  {
+    "id": 6,
+    "category": "JavaScript",
+    "question": "Which method converts JSON to object?",
+    "options": [
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.object()",
+      "JSON.convert()"
+    ],
+    "answer": "JSON.parse()"
+  },
+  {
+    "id": 7,
+    "category": "React",
+    "question": "React is mainly used for?",
+    "options": [
+      "Database",
+      "Frontend",
+      "Backend",
+      "Networking"
+    ],
+    "answer": "Frontend"
+  },
+  {
+    "id": 8,
+    "category": "React",
+    "question": "Which hook is used for state?",
+    "options": [
+      "useRef",
+      "useEffect",
+      "useState",
+      "useMemo"
+    ],
+    "answer": "useState"
+  },
+  {
+    "id": 9,
+    "category": "Aptitude",
+    "question": "10 + 20 × 2 = ?",
+    "options": ["60", "40", "50", "30"],
+    "answer": "50"
+  },
+  {
+    "id": 10,
+    "category": "Aptitude",
+    "question": "25% of 200 = ?",
+    "options": ["25", "40", "50", "75"],
+    "answer": "50"
+  }
+]
